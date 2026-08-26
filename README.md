@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul Barse</h1>
-<h3 align="center">A CS Student at IUT Toulouse</h3>
+<h3 align="center">A CS and Business Management Student at UT Toulouse</h3>
 <div align="center">
  📫 How to reach me : contact.paulbarse@gmail.com
 
- ⚡ Fun fact **Im looking for an Internship !**
 </div>
 <h3 align="center">My Contacts :</h3>
 <p align="center">
